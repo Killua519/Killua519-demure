@@ -7,14 +7,14 @@
 */
 
 global.prefa = ['','!','.',',','🐸','🗿']
-global.owner = ['910000000000']
-global.ownMain = '910000000000'
-global.NamaOwner = 'TechGodSir' //your name
+global.owner = ['254754795787']
+global.ownMain = '254754795787'
+global.NamaOwner = 'Stanley' //your name
 global.sessionName = 'session'
 global.connect = true // for qr code do this false
-global.namabot = 'TECH-GOD-9' //don't change
-global.author = 'TechGodSir' //don't change
-global.packname = 'TechGodSir' //sticker name
+global.namabot = 'Msupa' //don't change
+global.author = 'Stanley' //don't change
+global.packname = 'Stanley' //sticker name
 global.domain = '' // Isi Domain Lu
 global.apikey = 'ptla_F9N0OMtFjU0fbiO04EJiPUcw3XaPgMUmJZA6cAk3zt8' // Isi Apikey Plta Lu
 global.capikey = 'ptlc_4SNLfuJidXDSWPx1LeIdY3TrFrcTaUcWqcJ92uORpTV' // Isi Apikey Pltc Lu
